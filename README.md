@@ -23,7 +23,7 @@ Simulated-Annealing algorithm is one of the most preferred heuristic methods for
 <b>Simulated annealing</b> is an algorithim which uses randomness to garuntee optimality. It starts at a random point then decreases the temperature which in return decreases the margin of error. At the end it check whether the new or the old point is better and repeat.
 <br>
 
-<img src="extra-doc/SA-Example.PNG" alt="example.png"/>
+<img src="extra-doc/SA-Example.PNG" alt="example.png" width=500px/>
 <br>
 
 As you can see in the gif below Simulated annealing is great for even non linear problems
