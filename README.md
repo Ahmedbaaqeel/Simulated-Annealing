@@ -23,7 +23,7 @@ Simulated-Annealing algorithm is one of the most preferred heuristic methods for
 <b>Simulated annealing</b> is an algorithim which uses randomness to garuntee optimality. It starts at a random point then decreases the temperature which in return decreases the margin of error. At the end it check whether the new or the old point is better and repeat.
 <br>
 
-<img src="extra-doc/SA-Example.png" alt="example.png"/>
+<img src="extra-doc/SA-Example.PNG" alt="example.png"/>
 <br>
 
 As you can see in the gif below Simulated annealing is great for even non linear problems
@@ -42,7 +42,7 @@ queens, s = (0,3,2,0) represents the state (note the usage of 0-indexing) of pos
 the second queen in the second column at row 3, the third queen in the third column at row 2, and the fourth queen in the fourth
 column at row 0
 
-<img src="extra-doc/N-Queens.png"/>
+<img src="extra-doc/N-Queens.PNG" alt="crown pic"/>
 
 ## <img src="https://cdn-icons-png.flaticon.com/128/9184/9184187.png" width=17px /> Installation
 
